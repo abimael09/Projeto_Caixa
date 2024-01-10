@@ -1,0 +1,15 @@
+C:\Users\aluno\AppData\Local\Temporary Projects\ProjetoCaixa\bin\Debug\ProjetoCaixa.exe
+C:\Users\aluno\AppData\Local\Temporary Projects\ProjetoCaixa\bin\Debug\ProjetoCaixa.pdb
+C:\Users\aluno\AppData\Local\Temporary Projects\ProjetoCaixa\obj\x86\Debug\ProjetoCaixa.exe
+C:\Users\aluno\AppData\Local\Temporary Projects\ProjetoCaixa\obj\x86\Debug\ProjetoCaixa.pdb
+C:\Users\aluno\documents\visual studio 2010\Projects\ProjetoCaixa\ProjetoCaixa\obj\x86\Debug\ProjetoCaixa.exe
+C:\Users\aluno\documents\visual studio 2010\Projects\ProjetoCaixa\ProjetoCaixa\obj\x86\Debug\ProjetoCaixa.pdb
+C:\Users\aluno\documents\visual studio 2010\Projects\ProjetoCaixa\ProjetoCaixa\bin\Debug\ProjetoCaixa.exe
+C:\Users\aluno\documents\visual studio 2010\Projects\ProjetoCaixa\ProjetoCaixa\bin\Debug\ProjetoCaixa.pdb
+C:\Users\Family\OneDrive\Documentos\Visual Studio 2022\ProjetoCaixa\ProjetoCaixa\bin\Debug\ProjetoCaixa.exe.config
+C:\Users\Family\OneDrive\Documentos\Visual Studio 2022\ProjetoCaixa\ProjetoCaixa\bin\Debug\ProjetoCaixa.exe
+C:\Users\Family\OneDrive\Documentos\Visual Studio 2022\ProjetoCaixa\ProjetoCaixa\bin\Debug\ProjetoCaixa.pdb
+C:\Users\Family\OneDrive\Documentos\Visual Studio 2022\ProjetoCaixa\ProjetoCaixa\obj\x86\Debug\ProjetoCaixa.csproj.AssemblyReference.cache
+C:\Users\Family\OneDrive\Documentos\Visual Studio 2022\ProjetoCaixa\ProjetoCaixa\obj\x86\Debug\ProjetoCaixa.csproj.CoreCompileInputs.cache
+C:\Users\Family\OneDrive\Documentos\Visual Studio 2022\ProjetoCaixa\ProjetoCaixa\obj\x86\Debug\ProjetoCaixa.exe
+C:\Users\Family\OneDrive\Documentos\Visual Studio 2022\ProjetoCaixa\ProjetoCaixa\obj\x86\Debug\ProjetoCaixa.pdb
